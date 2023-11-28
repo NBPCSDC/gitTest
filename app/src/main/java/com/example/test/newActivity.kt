@@ -37,4 +37,6 @@ class newActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
     }
+
+    println("trqsd")qsd
 }
